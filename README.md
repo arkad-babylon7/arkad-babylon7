@@ -16,7 +16,7 @@ I am a maintainer of the popular k6 load testing tool. Some of my proud open-sou
 
 ## 💼 Work Experience
 
-I thrive as a Staff Software Engineer at Genee, building tools that empower developers worldwide. Experienced Full-Stack Engineer with a decade of expertise in developing and maintaining web and mobile applications. Specialized in Laravel PHP for backend development, ensuring robust scalable and secure software solutions. Proficient in both front-end and back-end technologies with a strong focus on creating efficient, reliable and user-friendly software. Demonstrated success in collaborating effectively with cross-functional teams to deliver high-quality projects on time.
+I thrive as a Staff Software Engineer at RT-VK, building tools that empower developers worldwide. Experienced Full-Stack Engineer with a decade of expertise in developing and maintaining web and mobile applications. Specialized in Laravel PHP for backend development, ensuring robust scalable and secure software solutions. Proficient in both front-end and back-end technologies with a strong focus on creating efficient, reliable and user-friendly software. Demonstrated success in collaborating effectively with cross-functional teams to deliver high-quality projects on time.
 Dedicated to continuous learning and improvement, maintaining up-to-date knowledge and skills in the latest development practices to drive innovation and excellence.
 ## 🔧 Skills
 
