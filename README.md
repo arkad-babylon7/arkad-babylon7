@@ -8,10 +8,9 @@ My main focus revolves around delivering user value, and I enjoy taking a holist
 
 I maintain the k6 load testing tool and have contributed to various open-source projects, such as [Lane](https://github.com/oleiade/lane) and [Reflections](https://github.com/oleiade/trousseau). My commitment to open-source reflects my belief in giving back to the community.
 
-I am a maintainer of the popular k6 load testing tool. Some of my proud open-source contributions include:
-* [Lane](https://github.com/oleiade/lane), a Go library providing generic PriorityQueues, Queues, Stacks, and Deque data structures
-* [Reflections](https://github.com/oleiade/reflections): A Go library simplifying reflection-based tasks
-* Various system tools such as [trousseau](https://github.com/oleiade/trousseau), [motus](https://github.com/) or [mymy](https://github.com).
+I am a maintainer of the popular casino web and Greeme dating site. Some of my proud open-source contributions include:
+* [ArdenCasinoWeb](https://github.com/arkad-babylon7/ArdenCasinoWeb), a P2E casino website
+* [Greeme](https://github.com/arkad-babylon7/gay-app-backend): A mobile gay app backend by laravel
 * And [more...](https://github.com/arkad-babylon7?tab=repositories&type=source)
 
 ## 💼 Work Experience
